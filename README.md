@@ -3,7 +3,7 @@
 ## 1. Establish a Model to Analyze the Oscillations of a Half-Car Vehicle
 ### 1.1. Assumptions When Constructing the Model
 
-The model for analyzing the oscillations of a two-axle vehicle is based on Figure 3.1, with the following assumptions:
+The model for analyzing the oscillations of a two-axle vehicle is based on Figure, with the following assumptions:
 
 - The dynamic model represents the oscillations of the vehicle's body connected to both axles, assuming planar motion. That is, the vehicle is considered to oscillate symmetrically about the longitudinal axis (Z-axis), and we examine how the front and rear axles respond to road surface irregularities on both the left and right sides, similar to the model below.
 
