@@ -1,7 +1,5 @@
-# Establish a Model to Study Vehicle Oscillations Considering the Effects of the Braking Process
-
-## 1. Establish a Model to Analyze the Oscillations of a Half-Car Vehicle
-### 1.1. Assumptions When Constructing the Model
+#  Establish a Model to Analyze the Oscillations of a Half-Car Vehicle
+## 1. Assumptions When Constructing the Model
 
 The model for analyzing the oscillations of a half of vehicle is based on Figure, with the following assumptions:
 
@@ -21,7 +19,7 @@ The system has four degrees of freedom and four generalized coordinates: $Z$, $\
 
 ![a half car model](https://github.com/trunggpham/Simulating-the-effects-of-braking-in-Matlab-Simulink/blob/main/a%20half%20car%20model.png)
 
-## 1.2. Establish the System of Differential Equations
+## 2. Establish the System of Differential Equations
 
 To determine the oscillation parameters of the vehicle, we need to establish a system of differential equations that describes the oscillatory motion of the system. The system of differential equations can be established using various methods. For example, one can use D’Alembert's principle or apply the Lagrange equation of type II. After the transformation steps, we obtain the system of differential equations that describes the oscillation of the vehicle, considering the influence of the braking process as follows:
 
@@ -37,7 +35,7 @@ The expressions above can be defined as:
 
 - $q_i, \dot{q}_i$: The height profile of the road and the derivative representing the slope at the contact point of the tire with the road.
 
-## 1.3. Determine the Effects of the Braking Process.
+## 3. Determine the Effects of the Braking Process.
 
 ![Force Diagram Acting on the Vehicle During Braking](https://github.com/trunggpham/Simulating-the-effects-of-braking-in-Matlab-Simulink/blob/main/Force%20Diagram%20Acting%20on%20the%20Vehicle%20During%20Braking.png)
 
