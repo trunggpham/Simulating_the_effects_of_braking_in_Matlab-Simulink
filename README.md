@@ -23,7 +23,7 @@ The system has four degrees of freedom and four generalized coordinates: $Z$, $\
 
 ## 1.2. Establish the System of Differential Equations
 
-To determine the oscillation parameters of the vehicle, we need to establish a system of differential equations that describes the oscillatory motion of the system. The system of differential equations can be established using various methods. For example, one can use D’Alembert's principle or apply the Lagrange equation of type II. After the transformation steps, we obtain the system of differential equations that describes the oscillation of the vehicle, considering the influence of the braking process as follows:"
+To determine the oscillation parameters of the vehicle, we need to establish a system of differential equations that describes the oscillatory motion of the system. The system of differential equations can be established using various methods. For example, one can use D’Alembert's principle or apply the Lagrange equation of type II. After the transformation steps, we obtain the system of differential equations that describes the oscillation of the vehicle, considering the influence of the braking process as follows:
 
 ![the system of differential equations](https://github.com/trunggpham/Simulating-the-effects-of-braking-in-Matlab-Simulink/blob/main/the%20system%20of%20differential%20equations.png)
 
