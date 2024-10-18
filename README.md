@@ -56,7 +56,7 @@ The expressions above can be defined as:
 When braking, the aerodynamic force $P_{w}$ and the lateral force may change, and the values can vary slightly, typically around 1.5–2%. 
 
 Using the traction force balance equation applied to the case of braking on a horizontal road (without towing a trailer), neglecting air resistance and rolling resistance, we have:
-$P_{p} = $\delta \cdot \frac{G}{g} \cdot J_{p}$
+$P_{p} = \delta \cdot \frac{G}{g} \cdot J_{p}$
 
 where:
 - $P_{p}$: Total braking force acting on the vehicle's wheels.
